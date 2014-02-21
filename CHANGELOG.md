@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+1.1.2
+-----
+
+ * Fix bug in `Example::prodNumbers()` not multiplying with fourth parameter
+
 1.1.1
 -----
 
