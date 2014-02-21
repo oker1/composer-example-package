@@ -1,0 +1,12 @@
+{
+    "name": "oker1/example-package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zsolt Takacs",
+            "email": "zsolt@takacs.cc"
+        }
+    ],
+    "require": {
+    }
+}
