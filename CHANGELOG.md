@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+1.1.1
+-----
+
+ * Fix bug in `Example::sumNumbers()` not adding fourth parameter
+
 1.1.0
 -----
 
