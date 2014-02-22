@@ -6,4 +6,8 @@ class Example {
 	public function prod($sum1, $sum2, $sum3 = 0, $sum4 = 0) {
 		return $sum1 * $sum2 * $sum3 * $sum4;
 	}
+
+	public function div($sum1, $sum2, $sum3 = 0, $sum4 = 0) {
+		return $sum1 / $sum2 / $sum3 / $sum4;
+	}
 }
