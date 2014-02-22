@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+1.2.0
+-----
+
+ * `Example::divNumbers()` supporting up to 4 numbers.
+
 1.1.2
 -----
 
