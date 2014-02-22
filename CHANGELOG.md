@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+2.0.0
+-----
+
+ * Renamed methods to shorter versions
+
 1.1.2
 -----
 
